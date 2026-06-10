@@ -92,21 +92,7 @@ This project performs end-to-end analysis on NYC TLC Yellow Taxi trip records. S
 - **Jupyter Notebook** — interactive analysis
 - **Parquet** — efficient data storage and loading
 
----
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/nyc-taxi-operations.git
-cd nyc-taxi-operations
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch notebooks
-jupyter notebook
-```
 
 ---
 
